@@ -24,17 +24,17 @@ const projects = [
     description:
       "A Weather API works by sending a request (with city name) to a server, which processes it and returns real-time weather data.",
     image: "/projects/Project3.jpeg",
-    tags: ["React", "OpenAI", "Python", "FastAPI"],
+    tags: ["HTML","Javascript","CSS"],
     link: "https://github.com/saurabhtiwri2047/Weather-API.git",
     github: "https://github.com/",
   },
   {
-    title: "Escape Road",
+    title: "Road-Escape-Game",
     description:
       "An Escape Road is typically a game or project where a player navigates through obstacles or paths to safely reach an exit point..",
     image: "/projects/Project4.jpeg",
     tags: ["HTML", "JavaScript"],
-    link: "#",
+    link: "https://github.com/saurabhtiwri2047/Road-Escape-Game.git",
     github: "https://github.com/",
   },
 ];
